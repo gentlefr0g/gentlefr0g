@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gentlefr0g
-- 👀 I’m interested in electronics, optoelectronics, IC.
+- 👀 I’m interested in IC
 - 🌱 I’m currently learning coding
 
 <!---
